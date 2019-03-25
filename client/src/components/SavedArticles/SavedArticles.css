@@ -1,0 +1,9 @@
+.saved-articles {
+  display: flex;
+  justify-content: space-between;
+}
+
+.saved-articles a, span {
+  width: 300px;
+  color: #373d3f;
+}

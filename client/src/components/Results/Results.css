@@ -1,0 +1,12 @@
+.alert span {
+  font-size: 20px;
+}
+
+.alert button {
+  height: 100%;
+  line-height: 100%;
+}
+
+.alert a {
+  color: #373d3f;
+}
